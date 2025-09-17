@@ -1,7 +1,7 @@
 # Admin Panel Setup Guide
 
 ## Overview
-WeatherPro includes a powerful admin panel for managing user feedback. Access is controlled via URL parameters and environment variables for security.
+WindMate includes a powerful admin panel for managing user feedback. Access is controlled via URL parameters and environment variables for security.
 
 ## Admin Access Methods
 
@@ -63,7 +63,7 @@ REACT_APP_ADMIN_KEY = wx2024_admin_$ecure!Key_987
 ### ✅ Good Admin Key Examples
 ```
 wx2024_admin_$ecure!Key_987
-WeatherPro_2024_Admin_9x8z7y
+WindMate_2024_Admin_9x8z7y
 FeedbackAdmin_2024_Secure_Key_789!
 ```
 

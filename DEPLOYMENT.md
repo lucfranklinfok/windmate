@@ -1,4 +1,4 @@
-# WeatherPro AWS Deployment Guide
+# WindMate AWS Deployment Guide
 
 ## 🚀 Quick Deployment to AWS Amplify
 
@@ -17,10 +17,10 @@ git init
 git add .
 
 # Commit your changes
-git commit -m "Initial WeatherPro MVP ready for production"
+git commit -m "Initial WindMate MVP ready for production"
 
 # Add your GitHub repository
-git remote add origin https://github.com/yourusername/weatherpro.git
+git remote add origin https://github.com/yourusername/windmate.git
 
 # Push to GitHub
 git push -u origin main
@@ -35,13 +35,13 @@ git push -u origin main
 2. **Connect Repository**
    - Select "GitHub" as your Git provider
    - Authorize AWS Amplify to access your GitHub
-   - Select your WeatherPro repository
+   - Select your WindMate repository
    - Choose the `main` branch
 
 3. **Configure Build Settings**
    - Build commands are auto-detected from `amplify.yml`
    - Verify the build specification looks correct
-   - **App name**: `weatherpro` or `weathermate`
+   - **App name**: `windmate`
    - **Environment**: `production`
 
 4. **Environment Variables**
@@ -226,7 +226,7 @@ git push -u origin main
 
 ## 🎉 You're Ready to Launch!
 
-Your WeatherPro MVP is production-ready and configured for scalable deployment on AWS. The setup includes:
+Your WindMate MVP is production-ready and configured for scalable deployment on AWS. The setup includes:
 
 ✅ **Automated deployments**
 ✅ **Global CDN distribution**

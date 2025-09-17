@@ -138,7 +138,7 @@ const FeedbackModal: React.FC<FeedbackModalProps> = ({ isOpen, onClose }) => {
                 fontSize: '1rem',
                 margin: 0
               }}>
-                Your feedback helps us improve WeatherPro
+                Your feedback helps us improve WindMate
               </p>
             </motion.div>
           </motion.div>

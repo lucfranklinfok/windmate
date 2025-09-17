@@ -184,9 +184,9 @@ function App() {
     <div className="app">
       <div className="app-container">
         <header className="app-header">
-          <h1 className="app-title">WeatherPro</h1>
+          <h1 className="app-title">WindMate</h1>
           <p className="app-subtitle">
-            Your personalized weather companion for outdoor adventures
+            Your trusted wind companion for Australian outdoor adventures
           </p>
         </header>
 
